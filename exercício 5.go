@@ -1,5 +1,5 @@
 package main
-
+//ex 5
 import "fmt"
 
 func main() {
